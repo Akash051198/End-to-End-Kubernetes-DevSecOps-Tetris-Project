@@ -52,3 +52,10 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 
 ## License 📄
    This project is licensed under the Apache-2.0 license see the [LICENSE](http://www.apache.org/licenses/) file for details.
+
+ ##  Project Image
+ <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/eb87bc78-6cab-49ab-8d38-12bd4042cae4" />
+ <img width="1680" height="1015" alt="image" src="https://github.com/user-attachments/assets/db69496b-93aa-4e68-81fa-9b358d247972" />
+ <img width="1680" height="900" alt="image" src="https://github.com/user-attachments/assets/4278dcce-a86d-4a99-9f88-b3068551c887" />
+
+
